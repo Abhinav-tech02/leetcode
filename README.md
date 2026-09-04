@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/Abhinav-tech02/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Abhinav-tech02/leetcode/tree/master/0119-pascals-triangle-ii) |
+| [0217-contains-duplicate](https://github.com/Abhinav-tech02/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Abhinav-tech02/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Abhinav-tech02/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Math
@@ -22,9 +23,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Abhinav-tech02/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Abhinav-tech02/leetcode/tree/master/0219-contains-duplicate-ii) |
 ## Sliding Window
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Abhinav-tech02/leetcode/tree/master/0219-contains-duplicate-ii) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Abhinav-tech02/leetcode/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
