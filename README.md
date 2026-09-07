@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Abhinav-tech02/leetcode/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/Abhinav-tech02/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Abhinav-tech02/leetcode/tree/master/0268-missing-number) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Abhinav-tech02/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Dynamic Programming
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Abhinav-tech02/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Abhinav-tech02/leetcode/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
@@ -65,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Abhinav-tech02/leetcode/tree/master/0202-happy-number) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Abhinav-tech02/leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
