@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Abhinav-tech02/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Abhinav-tech02/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Abhinav-tech02/leetcode/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/Abhinav-tech02/leetcode/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/Abhinav-tech02/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Abhinav-tech02/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Sliding Window
@@ -78,5 +79,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Abhinav-tech02/leetcode/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/Abhinav-tech02/leetcode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Abhinav-tech02/leetcode/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
