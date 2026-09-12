@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Abhinav-tech02/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0075-sort-colors](https://github.com/Abhinav-tech02/leetcode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Abhinav-tech02/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Abhinav-tech02/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0217-contains-duplicate](https://github.com/Abhinav-tech02/leetcode/tree/master/0217-contains-duplicate) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Abhinav-tech02/leetcode/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/Abhinav-tech02/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Abhinav-tech02/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Abhinav-tech02/leetcode/tree/master/0268-missing-number) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Abhinav-tech02/leetcode/tree/master/0075-sort-colors) |
 | [0202-happy-number](https://github.com/Abhinav-tech02/leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Abhinav-tech02/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Abhinav-tech02/leetcode/tree/master/0344-reverse-string) |
@@ -106,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Quicksort
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Abhinav-tech02/leetcode/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/Abhinav-tech02/leetcode/tree/master/0455-assign-cookies) |
 ## Database
 |  |
@@ -115,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Abhinav-tech02/leetcode/tree/master/0412-fizz-buzz) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Abhinav-tech02/leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
