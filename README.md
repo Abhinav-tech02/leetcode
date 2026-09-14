@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Abhinav-tech02/leetcode/tree/master/0007-reverse-integer) |
 | [0043-multiply-strings](https://github.com/Abhinav-tech02/leetcode/tree/master/0043-multiply-strings) |
 | [0202-happy-number](https://github.com/Abhinav-tech02/leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Abhinav-tech02/leetcode/tree/master/0231-power-of-two) |
