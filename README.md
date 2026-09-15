@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Abhinav-tech02/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/Abhinav-tech02/leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Abhinav-tech02/leetcode/tree/master/0485-max-consecutive-ones) |
+| [1480-running-sum-of-1d-array](https://github.com/Abhinav-tech02/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/Abhinav-tech02/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [3028-ant-on-the-boundary](https://github.com/Abhinav-tech02/leetcode/tree/master/3028-ant-on-the-boundary) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Abhinav-tech02/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/Abhinav-tech02/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/Abhinav-tech02/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [3028-ant-on-the-boundary](https://github.com/Abhinav-tech02/leetcode/tree/master/3028-ant-on-the-boundary) |
 <!---LeetCode Topics End-->
