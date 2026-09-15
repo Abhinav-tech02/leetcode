@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Abhinav-tech02/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/Abhinav-tech02/leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Abhinav-tech02/leetcode/tree/master/0485-max-consecutive-ones) |
+| [3028-ant-on-the-boundary](https://github.com/Abhinav-tech02/leetcode/tree/master/3028-ant-on-the-boundary) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Abhinav-tech02/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Math
 |  |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/Abhinav-tech02/leetcode/tree/master/0043-multiply-strings) |
 | [0412-fizz-buzz](https://github.com/Abhinav-tech02/leetcode/tree/master/0412-fizz-buzz) |
+| [3028-ant-on-the-boundary](https://github.com/Abhinav-tech02/leetcode/tree/master/3028-ant-on-the-boundary) |
 ## Bubble Sort
 |  |
 | ------- |
@@ -158,4 +160,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Abhinav-tech02/leetcode/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/Abhinav-tech02/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Abhinav-tech02/leetcode/tree/master/0206-reverse-linked-list) |
+## Prefix Sum
+|  |
+| ------- |
+| [3028-ant-on-the-boundary](https://github.com/Abhinav-tech02/leetcode/tree/master/3028-ant-on-the-boundary) |
 <!---LeetCode Topics End-->
