@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Abhinav-tech02/leetcode/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/Abhinav-tech02/leetcode/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Abhinav-tech02/leetcode/tree/master/1137-n-th-tribonacci-number) |
+| [1952-three-divisors](https://github.com/Abhinav-tech02/leetcode/tree/master/1952-three-divisors) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Abhinav-tech02/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Dynamic Programming
 |  |
@@ -168,4 +169,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/Abhinav-tech02/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/Abhinav-tech02/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [3028-ant-on-the-boundary](https://github.com/Abhinav-tech02/leetcode/tree/master/3028-ant-on-the-boundary) |
+## Enumeration
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/Abhinav-tech02/leetcode/tree/master/1952-three-divisors) |
+## Number Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/Abhinav-tech02/leetcode/tree/master/1952-three-divisors) |
+## Prime Factorization
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/Abhinav-tech02/leetcode/tree/master/1952-three-divisors) |
+## Sieve Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/Abhinav-tech02/leetcode/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
