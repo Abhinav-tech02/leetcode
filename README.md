@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Abhinav-tech02/leetcode/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/Abhinav-tech02/leetcode/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/Abhinav-tech02/leetcode/tree/master/0412-fizz-buzz) |
+| [0520-detect-capital](https://github.com/Abhinav-tech02/leetcode/tree/master/0520-detect-capital) |
 ## Greedy
 |  |
 | ------- |
