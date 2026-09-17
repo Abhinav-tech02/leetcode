@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Abhinav-tech02/leetcode/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/Abhinav-tech02/leetcode/tree/master/0520-detect-capital) |
 | [0551-student-attendance-record-i](https://github.com/Abhinav-tech02/leetcode/tree/master/0551-student-attendance-record-i) |
+| [0709-to-lower-case](https://github.com/Abhinav-tech02/leetcode/tree/master/0709-to-lower-case) |
 ## Greedy
 |  |
 | ------- |
