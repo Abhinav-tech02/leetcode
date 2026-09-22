@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Abhinav-tech02/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Abhinav-tech02/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0169-majority-element](https://github.com/Abhinav-tech02/leetcode/tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/Abhinav-tech02/leetcode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Abhinav-tech02/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Abhinav-tech02/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Abhinav-tech02/leetcode/tree/master/0238-product-of-array-except-self) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Abhinav-tech02/leetcode/tree/master/0007-reverse-integer) |
 | [0043-multiply-strings](https://github.com/Abhinav-tech02/leetcode/tree/master/0043-multiply-strings) |
 | [0202-happy-number](https://github.com/Abhinav-tech02/leetcode/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/Abhinav-tech02/leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Abhinav-tech02/leetcode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Abhinav-tech02/leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Abhinav-tech02/leetcode/tree/master/0268-missing-number) |
@@ -214,10 +216,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Abhinav-tech02/leetcode/tree/master/0204-count-primes) |
 | [1952-three-divisors](https://github.com/Abhinav-tech02/leetcode/tree/master/1952-three-divisors) |
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Abhinav-tech02/leetcode/tree/master/0204-count-primes) |
 | [1952-three-divisors](https://github.com/Abhinav-tech02/leetcode/tree/master/1952-three-divisors) |
 ## Prime Factorization
 |  |
@@ -226,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sieve Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Abhinav-tech02/leetcode/tree/master/0204-count-primes) |
 | [1952-three-divisors](https://github.com/Abhinav-tech02/leetcode/tree/master/1952-three-divisors) |
 ## Divide and Conquer
 |  |
@@ -235,4 +240,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Abhinav-tech02/leetcode/tree/master/0169-majority-element) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Abhinav-tech02/leetcode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Abhinav-tech02/leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
