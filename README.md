@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Abhinav-tech02/leetcode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Abhinav-tech02/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Abhinav-tech02/leetcode/tree/master/0119-pascals-triangle-ii) |
+| [0164-maximum-gap](https://github.com/Abhinav-tech02/leetcode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Abhinav-tech02/leetcode/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/Abhinav-tech02/leetcode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Abhinav-tech02/leetcode/tree/master/0217-contains-duplicate) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Abhinav-tech02/leetcode/tree/master/0075-sort-colors) |
+| [0164-maximum-gap](https://github.com/Abhinav-tech02/leetcode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Abhinav-tech02/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Abhinav-tech02/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Abhinav-tech02/leetcode/tree/master/0242-valid-anagram) |
@@ -253,4 +255,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Abhinav-tech02/leetcode/tree/master/0204-count-primes) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Abhinav-tech02/leetcode/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Abhinav-tech02/leetcode/tree/master/0164-maximum-gap) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Abhinav-tech02/leetcode/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
