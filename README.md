@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Abhinav-tech02/leetcode/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Abhinav-tech02/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Abhinav-tech02/leetcode/tree/master/0496-next-greater-element-i) |
+| [0771-jewels-and-stones](https://github.com/Abhinav-tech02/leetcode/tree/master/0771-jewels-and-stones) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Abhinav-tech02/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Abhinav-tech02/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/Abhinav-tech02/leetcode/tree/master/1748-sum-of-unique-elements) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/Abhinav-tech02/leetcode/tree/master/0520-detect-capital) |
 | [0551-student-attendance-record-i](https://github.com/Abhinav-tech02/leetcode/tree/master/0551-student-attendance-record-i) |
 | [0709-to-lower-case](https://github.com/Abhinav-tech02/leetcode/tree/master/0709-to-lower-case) |
+| [0771-jewels-and-stones](https://github.com/Abhinav-tech02/leetcode/tree/master/0771-jewels-and-stones) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Abhinav-tech02/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2418-sort-the-people](https://github.com/Abhinav-tech02/leetcode/tree/master/2418-sort-the-people) |
 ## Greedy
