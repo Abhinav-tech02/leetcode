@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Abhinav-tech02/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Abhinav-tech02/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Abhinav-tech02/leetcode/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/Abhinav-tech02/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Abhinav-tech02/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Abhinav-tech02/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Abhinav-tech02/leetcode/tree/master/0414-third-maximum-number) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Abhinav-tech02/leetcode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/Abhinav-tech02/leetcode/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/Abhinav-tech02/leetcode/tree/master/0299-bulls-and-cows) |
+| [0347-top-k-frequent-elements](https://github.com/Abhinav-tech02/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Abhinav-tech02/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Abhinav-tech02/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Abhinav-tech02/leetcode/tree/master/0389-find-the-difference) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Abhinav-tech02/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Abhinav-tech02/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Abhinav-tech02/leetcode/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/Abhinav-tech02/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Abhinav-tech02/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Abhinav-tech02/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Abhinav-tech02/leetcode/tree/master/0389-find-the-difference) |
@@ -211,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Abhinav-tech02/leetcode/tree/master/0169-majority-element) |
 | [0299-bulls-and-cows](https://github.com/Abhinav-tech02/leetcode/tree/master/0299-bulls-and-cows) |
+| [0347-top-k-frequent-elements](https://github.com/Abhinav-tech02/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Abhinav-tech02/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/Abhinav-tech02/leetcode/tree/master/1748-sum-of-unique-elements) |
 ## Linked List
@@ -251,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Abhinav-tech02/leetcode/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Abhinav-tech02/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -267,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Abhinav-tech02/leetcode/tree/master/0164-maximum-gap) |
+| [0347-top-k-frequent-elements](https://github.com/Abhinav-tech02/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Radix Sort
 |  |
 | ------- |
@@ -275,4 +281,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Abhinav-tech02/leetcode/tree/master/0164-maximum-gap) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Abhinav-tech02/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Abhinav-tech02/leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
