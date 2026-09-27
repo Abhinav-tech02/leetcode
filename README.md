@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Abhinav-tech02/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/Abhinav-tech02/leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Abhinav-tech02/leetcode/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/Abhinav-tech02/leetcode/tree/master/0496-next-greater-element-i) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Abhinav-tech02/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Abhinav-tech02/leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/Abhinav-tech02/leetcode/tree/master/0905-sort-array-by-parity) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Abhinav-tech02/leetcode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Abhinav-tech02/leetcode/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Abhinav-tech02/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/Abhinav-tech02/leetcode/tree/master/0496-next-greater-element-i) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Abhinav-tech02/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Abhinav-tech02/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/Abhinav-tech02/leetcode/tree/master/1748-sum-of-unique-elements) |
@@ -292,4 +294,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Abhinav-tech02/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Abhinav-tech02/leetcode/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Abhinav-tech02/leetcode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
