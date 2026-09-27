@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Abhinav-tech02/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Abhinav-tech02/leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/Abhinav-tech02/leetcode/tree/master/0905-sort-array-by-parity) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Abhinav-tech02/leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0922-sort-array-by-parity-ii](https://github.com/Abhinav-tech02/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Abhinav-tech02/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Abhinav-tech02/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/Abhinav-tech02/leetcode/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/Abhinav-tech02/leetcode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Abhinav-tech02/leetcode/tree/master/0509-fibonacci-number) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Abhinav-tech02/leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1137-n-th-tribonacci-number](https://github.com/Abhinav-tech02/leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Abhinav-tech02/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1952-three-divisors](https://github.com/Abhinav-tech02/leetcode/tree/master/1952-three-divisors) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Abhinav-tech02/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Abhinav-tech02/leetcode/tree/master/0496-next-greater-element-i) |
 | [0771-jewels-and-stones](https://github.com/Abhinav-tech02/leetcode/tree/master/0771-jewels-and-stones) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Abhinav-tech02/leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Abhinav-tech02/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Abhinav-tech02/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/Abhinav-tech02/leetcode/tree/master/1748-sum-of-unique-elements) |
@@ -222,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0299-bulls-and-cows](https://github.com/Abhinav-tech02/leetcode/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/Abhinav-tech02/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Abhinav-tech02/leetcode/tree/master/0383-ransom-note) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Abhinav-tech02/leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Abhinav-tech02/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/Abhinav-tech02/leetcode/tree/master/1748-sum-of-unique-elements) |
 ## Linked List
@@ -248,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Abhinav-tech02/leetcode/tree/master/0204-count-primes) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Abhinav-tech02/leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1952-three-divisors](https://github.com/Abhinav-tech02/leetcode/tree/master/1952-three-divisors) |
 ## Prime Factorization
 |  |
@@ -304,4 +309,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Abhinav-tech02/leetcode/tree/master/0496-next-greater-element-i) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Abhinav-tech02/leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Abhinav-tech02/leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 <!---LeetCode Topics End-->
