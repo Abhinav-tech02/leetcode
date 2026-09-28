@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Abhinav-tech02/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1732-find-the-highest-altitude](https://github.com/Abhinav-tech02/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1748-sum-of-unique-elements](https://github.com/Abhinav-tech02/leetcode/tree/master/1748-sum-of-unique-elements) |
+| [1894-find-the-student-that-will-replace-the-chalk](https://github.com/Abhinav-tech02/leetcode/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [2418-sort-the-people](https://github.com/Abhinav-tech02/leetcode/tree/master/2418-sort-the-people) |
 | [3028-ant-on-the-boundary](https://github.com/Abhinav-tech02/leetcode/tree/master/3028-ant-on-the-boundary) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Abhinav-tech02/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/Abhinav-tech02/leetcode/tree/master/0441-arranging-coins) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Abhinav-tech02/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Abhinav-tech02/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1894-find-the-student-that-will-replace-the-chalk](https://github.com/Abhinav-tech02/leetcode/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/Abhinav-tech02/leetcode/tree/master/0043-multiply-strings) |
 | [0412-fizz-buzz](https://github.com/Abhinav-tech02/leetcode/tree/master/0412-fizz-buzz) |
+| [1894-find-the-student-that-will-replace-the-chalk](https://github.com/Abhinav-tech02/leetcode/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [3028-ant-on-the-boundary](https://github.com/Abhinav-tech02/leetcode/tree/master/3028-ant-on-the-boundary) |
 | [4020-elevator-requests-i](https://github.com/Abhinav-tech02/leetcode/tree/master/4020-elevator-requests-i) |
 ## Bubble Sort
@@ -242,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Abhinav-tech02/leetcode/tree/master/0238-product-of-array-except-self) |
 | [1480-running-sum-of-1d-array](https://github.com/Abhinav-tech02/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/Abhinav-tech02/leetcode/tree/master/1732-find-the-highest-altitude) |
+| [1894-find-the-student-that-will-replace-the-chalk](https://github.com/Abhinav-tech02/leetcode/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [3028-ant-on-the-boundary](https://github.com/Abhinav-tech02/leetcode/tree/master/3028-ant-on-the-boundary) |
 ## Enumeration
 |  |
