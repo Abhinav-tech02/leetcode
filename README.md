@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/Abhinav-tech02/leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/Abhinav-tech02/leetcode/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [2418-sort-the-people](https://github.com/Abhinav-tech02/leetcode/tree/master/2418-sort-the-people) |
+| [2460-apply-operations-to-an-array](https://github.com/Abhinav-tech02/leetcode/tree/master/2460-apply-operations-to-an-array) |
 | [3028-ant-on-the-boundary](https://github.com/Abhinav-tech02/leetcode/tree/master/3028-ant-on-the-boundary) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Abhinav-tech02/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Abhinav-tech02/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/Abhinav-tech02/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Abhinav-tech02/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Abhinav-tech02/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2460-apply-operations-to-an-array](https://github.com/Abhinav-tech02/leetcode/tree/master/2460-apply-operations-to-an-array) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Abhinav-tech02/leetcode/tree/master/0043-multiply-strings) |
 | [0412-fizz-buzz](https://github.com/Abhinav-tech02/leetcode/tree/master/0412-fizz-buzz) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/Abhinav-tech02/leetcode/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
+| [2460-apply-operations-to-an-array](https://github.com/Abhinav-tech02/leetcode/tree/master/2460-apply-operations-to-an-array) |
 | [3028-ant-on-the-boundary](https://github.com/Abhinav-tech02/leetcode/tree/master/3028-ant-on-the-boundary) |
 | [4020-elevator-requests-i](https://github.com/Abhinav-tech02/leetcode/tree/master/4020-elevator-requests-i) |
 ## Bubble Sort
