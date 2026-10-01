@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Abhinav-tech02/leetcode/tree/master/0496-next-greater-element-i) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Abhinav-tech02/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Abhinav-tech02/leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0867-transpose-matrix](https://github.com/Abhinav-tech02/leetcode/tree/master/0867-transpose-matrix) |
 | [0905-sort-array-by-parity](https://github.com/Abhinav-tech02/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Abhinav-tech02/leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0922-sort-array-by-parity-ii](https://github.com/Abhinav-tech02/leetcode/tree/master/0922-sort-array-by-parity-ii) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/Abhinav-tech02/leetcode/tree/master/0043-multiply-strings) |
 | [0412-fizz-buzz](https://github.com/Abhinav-tech02/leetcode/tree/master/0412-fizz-buzz) |
+| [0867-transpose-matrix](https://github.com/Abhinav-tech02/leetcode/tree/master/0867-transpose-matrix) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/Abhinav-tech02/leetcode/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [2460-apply-operations-to-an-array](https://github.com/Abhinav-tech02/leetcode/tree/master/2460-apply-operations-to-an-array) |
 | [2974-minimum-number-game](https://github.com/Abhinav-tech02/leetcode/tree/master/2974-minimum-number-game) |
@@ -339,4 +341,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Abhinav-tech02/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Matrix
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/Abhinav-tech02/leetcode/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
