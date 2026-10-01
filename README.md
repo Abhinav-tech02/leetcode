@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0551-student-attendance-record-i](https://github.com/Abhinav-tech02/leetcode/tree/master/0551-student-attendance-record-i) |
 | [0709-to-lower-case](https://github.com/Abhinav-tech02/leetcode/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/Abhinav-tech02/leetcode/tree/master/0771-jewels-and-stones) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Abhinav-tech02/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Abhinav-tech02/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2418-sort-the-people](https://github.com/Abhinav-tech02/leetcode/tree/master/2418-sort-the-people) |
 ## Greedy
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Abhinav-tech02/leetcode/tree/master/0496-next-greater-element-i) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Abhinav-tech02/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -333,4 +335,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/Abhinav-tech02/leetcode/tree/master/0374-guess-number-higher-or-lower) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Abhinav-tech02/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
