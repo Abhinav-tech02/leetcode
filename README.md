@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Abhinav-tech02/leetcode/tree/master/0496-next-greater-element-i) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Abhinav-tech02/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Abhinav-tech02/leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0860-lemonade-change](https://github.com/Abhinav-tech02/leetcode/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/Abhinav-tech02/leetcode/tree/master/0867-transpose-matrix) |
 | [0905-sort-array-by-parity](https://github.com/Abhinav-tech02/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Abhinav-tech02/leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Abhinav-tech02/leetcode/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/Abhinav-tech02/leetcode/tree/master/0860-lemonade-change) |
 | [1903-largest-odd-number-in-string](https://github.com/Abhinav-tech02/leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Quicksort
 |  |
