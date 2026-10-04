@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Abhinav-tech02/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Abhinav-tech02/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/Abhinav-tech02/leetcode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Abhinav-tech02/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Abhinav-tech02/leetcode/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Abhinav-tech02/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Abhinav-tech02/leetcode/tree/master/0496-next-greater-element-i) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0299-bulls-and-cows](https://github.com/Abhinav-tech02/leetcode/tree/master/0299-bulls-and-cows) |
 | [0344-reverse-string](https://github.com/Abhinav-tech02/leetcode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Abhinav-tech02/leetcode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Abhinav-tech02/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Abhinav-tech02/leetcode/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/Abhinav-tech02/leetcode/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/Abhinav-tech02/leetcode/tree/master/0520-detect-capital) |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0299-bulls-and-cows](https://github.com/Abhinav-tech02/leetcode/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/Abhinav-tech02/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Abhinav-tech02/leetcode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Abhinav-tech02/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Abhinav-tech02/leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Abhinav-tech02/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/Abhinav-tech02/leetcode/tree/master/1748-sum-of-unique-elements) |
@@ -354,4 +357,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/Abhinav-tech02/leetcode/tree/master/0867-transpose-matrix) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Abhinav-tech02/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
