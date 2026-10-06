@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2460-apply-operations-to-an-array](https://github.com/Abhinav-tech02/leetcode/tree/master/2460-apply-operations-to-an-array) |
 | [2974-minimum-number-game](https://github.com/Abhinav-tech02/leetcode/tree/master/2974-minimum-number-game) |
 | [3028-ant-on-the-boundary](https://github.com/Abhinav-tech02/leetcode/tree/master/3028-ant-on-the-boundary) |
+| [3396-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Abhinav-tech02/leetcode/tree/master/3396-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Abhinav-tech02/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Abhinav-tech02/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [4020-elevator-requests-i](https://github.com/Abhinav-tech02/leetcode/tree/master/4020-elevator-requests-i) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/Abhinav-tech02/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/Abhinav-tech02/leetcode/tree/master/1748-sum-of-unique-elements) |
 | [2418-sort-the-people](https://github.com/Abhinav-tech02/leetcode/tree/master/2418-sort-the-people) |
+| [3396-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Abhinav-tech02/leetcode/tree/master/3396-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Sliding Window
 |  |
 | ------- |
